@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <a href="https://github.com/Jonathan-Scruggs/Quizzical-React-Project">Quizzical React Project</a><br><br>🌱 I’m currently learning React, PostgresSQL and Go<br><br>📝 I regularly write articles on https://jonathan-scruggs.netlify.app/
+🔭 I’m currently working on <a href="https://github.com/Jonathan-Scruggs/Quizzical-React-Project">Ultimate Trivia React Project</a><br><br>🌱 I’m currently learning React, PostgresSQL and Go<br><br>📝 I regularly write articles on https://jonathan-scruggs.netlify.app/
 
 
 # 💻 Tech Stack:
